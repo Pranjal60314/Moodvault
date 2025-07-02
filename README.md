@@ -52,12 +52,5 @@ json (standard)
 datetime (standard)
 
 License
-MIT License – use, adapt, and grow.
-
-yaml
-Copy
-Edit
-
----
-
-Let me know if you want it adapted for Jupyter Notebook, web interface, or made more poetic.
+While this repository is open to view, it is not open-source licensed.
+If you'd like to use or build upon it, please reach out — I’d love to hear how you're using it!
